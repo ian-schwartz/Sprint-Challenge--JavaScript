@@ -49,7 +49,7 @@ The combination of a function, and the lexical environment within which that fun
   -Whenever a function is called by a preceding dot, the object before that dot is “this”.
 
 -New Binding
-  -Whenever a constructor function is used, this refers to the specific instance of the object that is created and returned by the constructor function.
+  -Whenever a constructor function is used, "this" refers to the specific instance of the object that is created and returned by the constructor function.
 
 -Explicit Binding
   -Whenever JavaScript’s call or apply method is used, “this” is explicitly defined.

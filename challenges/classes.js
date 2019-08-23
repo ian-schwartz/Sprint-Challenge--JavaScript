@@ -19,15 +19,6 @@ class CuboidMaker {
     }
 }
 
-//   CuboidMaker.prototype.volume = function() {
-//     return `${this.length} * ${this.width} * ${this.height}`; 
-//   };
-  
-
-//   CuboidMaker.prototype.surfaceArea = function() {
-//     return `2 * ${this.length} * ${this.length} * ${this.height} + ${this.width} * ${this.height}`;
-//   };
-  
   const cuboid = new CuboidMaker({
     length: 4,
     width: 5,
